@@ -2,7 +2,7 @@
   "data_version": 7,
   "iteration": 1,
   "op_names": [
-    { "id": 1, "name": "High tempsX" }, 
+    { "id": 1, "name": "High temps" }, 
     { "id": 2, "name": "Medium temps" }, 
     { "id": 3, "name": "Low temps" }, 
     { "id": 4, "name": "Very low temps" }, 
@@ -12,10 +12,10 @@
   ],
   "devices": [
     { "name": "GeForce RTX 3090", "op": [
-      { "id": 4, "pt": 0, "dmc": 1550, "mcc": 1269, "fm": 3, "ftg" : 50, "ftr": 74 },
-      { "id": 3, "pt": 0, "dmc": 1250, "mcc": 1169, "fm": 3, "ftg" : 56, "ftr": 90 },
-      { "id": 2, "pt": 0, "dmc": 850, "mcc": 1069, "fm": 3, "ftg" : 58, "ftr": 94 },
-      { "id": 1, "pt": 0, "dmc": -450, "mcc": 969, "fm": 3, "ftg" : 62, "ftr": 94 }
+      { "id": 4, "pt": 0, "dmc": 1200, "mcc": 1110, "fm": 3, "ftg" : 62, "ftr": 94 },
+      { "id": 3, "pt": 0, "dmc": 1200, "mcc": 1095, "fm": 3, "ftg" : 62, "ftr": 94 },
+      { "id": 2, "pt": 0, "dmc": 1200, "mcc": 1080, "fm": 3, "ftg" : 62, "ftr": 94 },
+      { "id": 1, "pt": 0, "dmc": 1200, "mcc": 1065, "fm": 3, "ftg" : 62, "ftr": 94 }
     ]},
     { "name": "GeForce RTX 3080", "op": [
       { "id": 4, "pt": 0, "dmc": 1600, "mcc": 1290, "fm": 3, "ftg" : 50, "ftr": 74 },
